@@ -1,14 +1,8 @@
-// import static org.junit.jupiter.api.Assertions.assertEquals;
+private void print matrix (int matrix [4][3] matrix ){for (int i = 0; i < 4; i++){for (int j = 0; j < 3; j++){ System.out.print(matrix[i][j]+ " ");
+    
+    
 
-// import org.junit.jupiter.api.Test;
+    
 
-public class Main {
-  public static void main(String[] args) {
-    System.out.println("Emmanuel cos");
-  }
-
-  // @Test
-  // void addition() {
-  //     assertEquals(2, 1 + 1);
-  // }
-}
+    
+    
